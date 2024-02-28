@@ -1,5 +1,6 @@
+#create and empty set
 s = set()
-
+#Add elements to set
 s.add(1)
 s.add(2)
 s.add(3)
